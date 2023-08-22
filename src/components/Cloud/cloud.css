@@ -1,0 +1,71 @@
+.cloud_main_main {
+    margin: 40px 0px !important;
+}
+
+.first_main {
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    margin: 20px 0px !important;
+}
+
+.cloud_main_main .one {
+    color: #2F327D;
+}
+
+.cloud_main_main .heading {
+    color: #00CBB8;
+}
+
+.para_main {
+    text-align: center;
+    color: #696984;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.card_main {
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 0px 10px 60px 0px rgba(38, 45, 118, 0.08);
+    text-align: center;
+    padding: 50px 20px 30px 20px  !important;
+    position: relative;
+    height: 370px;
+    margin:0 15px;
+
+
+}
+.sdcd{
+    position: absolute;
+    top: -60px;
+    left:30%;
+}
+
+.card_main .online_heading {
+    color: #2F327D;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 30px !important;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 50px !important;
+}
+
+.paraaaaa {
+    color: #696984;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 20px !important;
+}
+.ascssd{
+    margin-top: 80px !important;
+}

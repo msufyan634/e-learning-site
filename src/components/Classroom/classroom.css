@@ -1,0 +1,39 @@
+.left_sids_main .sdcw {
+    color: #2F327D;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.left_sids_main span {
+    color: #00CBB8;
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.cssc {
+    color: #696984;
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0.48px;
+    margin-top: 30px !important;
+}
+
+.learn {
+    background: transparent !important;
+    /* color: white !important; */
+    border: none !important;
+    font-size: 14px !important;
+    color: #696984 !important;
+    font-family: Poppins;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 0px !important;
+    text-decoration-line: underline !important;
+}
